@@ -1,0 +1,20 @@
+title: Data Chefs
+author: Anders Schneiderman
+email: your-email@domain.com
+description:  Building a power user ecosystem that helps companies and the community
+
+# Menu data for sitewide navigation
+navigation_links:
+  - name: About
+    link: 'about/'
+  # - name: Principles
+    # link: 'principles/'
+  - name: Strategies
+    link: 'strategies/'
+  # - name: Blog
+  #   link: 'blog/'
+  # # - name: Links
+    # link: 'links'
+  - name: Makers All
+    link: 'https://makersall.org/'
+
