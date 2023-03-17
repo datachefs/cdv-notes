@@ -1,20 +1,18 @@
-title: Data Chefs
+title: Da Report
 author: Anders Schneiderman
 email: your-email@domain.com
 description:  Building a power user ecosystem that helps companies and the community
 
 # Menu data for sitewide navigation
 navigation_links:
-  - name: About
+  - name:  About
     link: 'about/'
-  # - name: Principles
-    # link: 'principles/'
-  - name: Strategies
-    link: 'strategies/'
-  # - name: Blog
-  #   link: 'blog/'
-  # # - name: Links
-    # link: 'links'
-  - name: Makers All
-    link: 'https://makersall.org/'
+  - name: Why
+    link: 'why/'
+  - name: Creative DataViz
+    link: 'creative-dataviz'
+  - name: What Next
+    link: 'what-next/'
+  - name: Conclusion
+    link: 'conclusion/'
 
