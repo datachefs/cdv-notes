@@ -5,4 +5,10 @@ permalink: /creative-dataviz/
 image: cupcakes-animals.jpg
 ---
 
+
+
 So, why creative dataviz as a place to start?
+
+
+
+[Notes](../pages/creative-dataviz/creative-notes.html)
