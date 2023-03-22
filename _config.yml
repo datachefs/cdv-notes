@@ -5,8 +5,10 @@ description:  Building a power user ecosystem that helps companies and the commu
 
 # Menu data for sitewide navigation
 navigation_links:
-  - name:  About
-    link: 'about/'
+  # - name:  About
+    # link: 'about/'
+  - name: Intro
+    link: "intro/"
   - name: Why
     link: 'why/'
   - name: Creative DataViz
