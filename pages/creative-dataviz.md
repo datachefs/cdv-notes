@@ -49,10 +49,31 @@ just so it doesn't get overwhelming. Making progress is all about taking little 
 And don't do anything that's too high-stakes. For a bigger organization, your annual convention is probably not the best place to take your first baby steps here -- although if you give yourself room to play and try and fail and try and fail, you might end up with some dataviz that are good or interesting enough to consider showing off.
 
 
+There is real power and real accountability in unvarnished numbers:
+- We need to have talked to 15,000 voters by now, and we've only reached 10,000
+- We can't call a strike vote until we've gotten 80 more workers to sign a card check
+
+Interpretive dances don't win elections.
+
+I my proposing campaigns swap out data managers for dance managers? Obviously not.
+
+
+Building out the pilots and beyond in an incremental, organic, iterative, pilot-oriented way
+
+
+
+Timeline
+
 Timeline given that in the US we are at the start of a high-stakes election, and a whole lot of folks need to be Eyes on the Prize if we are going to make it.
 
 
+Nuts and bolts
+
+
+
 Including rural groups and rural issues (e.g., public utilities and rural electric co-ops)
+
+
 
 Talk with folks at Highlander?
 
