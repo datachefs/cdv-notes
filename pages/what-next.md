@@ -50,4 +50,8 @@ After all, if you figure out fundamentally different ways of creating dashboards
 
 And while creative data visualization isn't the same as creating new AI, if a whole new world of creative data visualization ends up sweeping not just through the nonprofit world but through the corporate world as well, it could give us a taste of what the world might look like if our tech rose out of more communities than just Silicon Valley.
 
+artists — and PTs & OTs
+
+at each stage, set expectations _low_ — don’t set myself up (eg, w proof of concepts)
+
 

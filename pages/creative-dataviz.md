@@ -77,5 +77,9 @@ Including rural groups and rural issues (e.g., public utilities and rural electr
 
 Talk with folks at Highlander?
 
+where does citizenship schools and extension services go?
+
 
 [Notes](../pages/creative-dataviz/creative-notes.html)
+
+at each stage, set expectations _low_ — don’t set myself up (eg, w proof of concepts)

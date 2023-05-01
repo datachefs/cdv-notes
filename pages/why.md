@@ -35,3 +35,5 @@ The why section:
 - why operating at scale is important
 - do I say in the why section that we are trying to build infrastructure here? That it's a two for?
 Yeah, that might make sense
+
+at each stage, set expectations _low_ — don’t set myself up (eg, w proof of concepts)

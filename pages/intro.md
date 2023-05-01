@@ -36,4 +36,6 @@ That's the purpose of this report:
 - To sketch out the practicalities of our first steps
  - To start a conversation about where the road we build might take us
 
+at each stage, set expectations _low_ — don’t set myself up (eg, w proof of concepts)
+
 
