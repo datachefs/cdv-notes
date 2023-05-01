@@ -11,9 +11,9 @@ navigation_links:
     link: "intro/"
   - name: Why
     link: 'why/'
-  - name: Creative DataViz
+  - name: How
     link: 'creative-dataviz'
-  - name: What Next
+  - name: Next
     link: 'what-next/'
   - name: Conclusion
     link: 'conclusion/'
