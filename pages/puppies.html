@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Puppies!</title>
+	<style>
+		.puppy {
+			display: inline-block;
+			margin-right: 20px;
+		}
+	</style>
+</head>
+<body>
+	<div id="puppies"></div>
+
+	<script>
+		// Create an array of numbers
+		var numbers = [3, 5, 2, 1];
+
+		// Create an SVG element for the puppy
+		var svg = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#F1B31C" d="M256 75.964c-70.993 0-128.674 57.681-128.674 128.674s57.681 128.674 128.674 128.674c70.993 0 128.674-57.681 128.674-128.674s-57.681-128.674-128.674-128.674zm0 198.748c-43.797 0-79.358-35.561-79.358-79.358 0-43.797 35.561-79.358 79.358-79.358s79.358 35.561 79.358 79.358c0 43.797-35.561 79.358-79.358 79.358z"/><path fill="#FFFFFF" d="M198.248 200.38c-1.72-2.744-2.621-6.029-2.621-9.422 0-8.391 6.811-15.202 15.202-15.202 8.391 0 15.202 6.811 15.202 15.202 0 3.393-.901 6.678-2.621 9.422-4.01 6.384-14.444 13.994-14.444 13.994s-8.131-7.58-12.719-13.794z"/><path fill="#FFFFFF" d="M313.752 200.38c1.72-2.744 2.621-6.029 2.621-9.422 0-8.391-6.811-15.202-15.202-15.202-8.391 0-15.202 6.811-15.202 15.202 0 3.393.901 6.678 2.621 9.422 4.01 6.384 14.444 13.994 14.444 13.994s8.131-7.58 12.719-13.794z"/></svg>';
+
+		// Create a string to hold the puppies
+		var puppies = '';
+
+		// Loop through the numbers and create a puppy for each one
+		for (var i = 0; i < numbers.length; i++) {
+			// Create a puppy div with a class of "puppy"
+			var puppy = document.createElement('div');
+			puppy.className = 'puppy';
+
+			// Set the width and height of the puppy div based on the array number
+			puppy.style.width = numbers[i] * 100 + 'px';
+			puppy.style.height = numbers[i] * 100 + 'px';
+
+	</script>
+</body>
+</html>

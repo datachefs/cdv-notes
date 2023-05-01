@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Puppies!</title>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.min.js"></script>
+</head>
+<body>
+	<script>
+		// Define the array of numbers
+		var numbers = [3, 5, 2, 1];
+
+		function setup() {
+			// Create a canvas with a width of 600 pixels and a height of 100 pixels
+			createCanvas(600, 100);
+
+			// Loop through the numbers and create a puppy for each one
+			for (var i = 0; i < numbers.length; i++) {
+				// Set the width and height of the puppy based on the array number
+				var width = numbers[i] * 100;
+				var height = numbers[i] * 100;
+
+				// Load the puppy SVG file
+				loadImage('puppy.svg', function(img) {
+					// Scale the puppy image to the appropriate size
+					img.resize(width, height);
+
+					// Draw the puppy image on the canvas
+					image(img, i * (width + 20), 0);
+				});
+			}
+		}
+	</script>
+</body>
+</html>
