@@ -9,7 +9,7 @@ navigation_links:
     # link: 'about/'
   - name: Intro
     link: "intro/"
-  - name: Why
+  - name: 'What & Why'
     link: 'why/'
   - name: How
     link: 'creative-dataviz'
