@@ -1,10 +1,10 @@
 ---
 layout: content
-title:  Creative Data visualization At Scale
-permalink: /creative-dataviz/
+title: 'Iteration ("Little Tiny Baby Steps") Over Perfectionism'
 image: cupcakes-animals.jpg
 ---
 
+ - Use a [Community-Oriented, Inclusive Approach](/pages/strategies/community.html)
 
 
 So, why creative dataviz as a place to start?

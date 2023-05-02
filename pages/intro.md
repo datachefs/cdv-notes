@@ -38,4 +38,5 @@ That's the purpose of this report:
 
 at each stage, set expectations _low_ — don’t set myself up (eg, w proof of concepts)
 
+_NOTE: report: not on how we regulate AI, dangers, etc.; Algorithmic Justice League, etc. do much better job_
 

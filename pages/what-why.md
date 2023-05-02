@@ -1,7 +1,7 @@
 ---
 layout: content
 title: About Datachefs
-title: Why
+title: 'What & Why'
 permalink: /why/
 # image: data-process-with-toys-1c.jpg
 image: cupcakes-fancy-white-pink.jpg
@@ -37,3 +37,10 @@ The why section:
 Yeah, that might make sense
 
 at each stage, set expectations _low_ — don’t set myself up (eg, w proof of concepts)
+
+
+Why: it's fun!
+
+Example: Shhiny Object Task Force
+
+Also a strategy for staff retention, leadership development like we did at My old place

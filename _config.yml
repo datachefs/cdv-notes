@@ -12,7 +12,7 @@ navigation_links:
   - name: 'What & Why'
     link: 'why/'
   - name: How
-    link: 'creative-dataviz'
+    link: 'how/'
   - name: Where Next
     link: 'what-next/'
   - name: Conclusion
