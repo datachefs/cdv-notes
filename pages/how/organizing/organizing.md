@@ -14,7 +14,15 @@ I need to cover:
 
 stronger together: why doing this through networks, both by the type of group and by geography, is the way to go
 
-Doesn't have to be staff. If anything, a way to bring in new volunteers and to develop new leaders (analytics leadership development?)
+Doesn't have to be staff. If anything, a way to bring in new volunteers and to develop new leaders (analytics leadership development?).  
+
+End result:
+- More mobilized folks
+- For more decentralized places, where chapters kinda do their own thing: starting to help structure so sustainable while 
+
+But: got so much on our plate, how do we figure out how to do this?
+
+The same way: together.  band of brothers and sisters across groups -- in general, or by state/region, or by sector, or both/and.  Figuring out good leadership dev in tech by yourself, writing the sheets, figuring out the asks, thinking through access issues, etc:  that's a lot.  Doing it w 5 other groups, together?  And maybe w some help from movement experts in how to do leadership dev in general?  That's a different story?
 
 Before GPT, the way to go would have been to create lightweight libraries. Now it's unclear. And to be honest, it may be unclear for a while -- it may take some time to figure out how to we write code in the best way in the era of GPT.
 
