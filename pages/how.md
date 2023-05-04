@@ -19,6 +19,6 @@ why coding, a.k.a. recipes for computers, is the only sustainable way to go for 
 5. [Iteration over Perfectionism](/pages/how/iteration/iteration.html): don't try to figure out all of it all at once, don't worry too much about exactly where we are headed, take the first steps in a low risk, iterative way
 
 
-And here's a draft of a [plan](./plan/) built around these principles
+And here's a draft of a [plan](./plan/) built around these principles, plus criteria for success.
 
 The end result: {Some reference back to the quote from Citizenship School about developing leaders, plus a nod to what's next}

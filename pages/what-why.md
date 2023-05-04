@@ -44,3 +44,5 @@ Why: it's fun!
 Example: Shhiny Object Task Force
 
 Also a strategy for staff retention, leadership development like we did at My old place
+
+Why at scale?  More in How about this, but need to at least crack the door here -- most folks don't think that way
