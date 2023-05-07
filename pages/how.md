@@ -12,7 +12,7 @@ Now that we know what we want to accomplish and why, how do we pull it off? By f
 2. [Simple Coding/Writing over Point-And-Click](/pages/how/coding-writing/coding-writing.html): 
 why coding, a.k.a. recipes for computers, is the only sustainable way to go for truly creative dataviz
 
-3. [Operating at Scale over Elaborate One-Off's](/pages/how/scale/scale.html): to have the impact we want, focus on getting lots of folks to do it over elaborate one-off's
+3. [Scale over Elaborate One-Off's](/pages/how/scale/scale.html): to have the impact we want, focus on getting lots of folks to do it over elaborate one-off's
 
 4. [Adventurous Beginners over Everyone All at Once](/pages/how/adventurous-beginners/adventurous-beginners.html): eventually we want to get a lot of folks, but at the beginning let's target "adventurous beginners"
 

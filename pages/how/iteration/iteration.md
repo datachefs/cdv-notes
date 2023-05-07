@@ -7,6 +7,8 @@ image: cupcakes-animals.jpg
  - Use a [Community-Oriented, Inclusive Approach](/pages/strategies/community.html)
 
 
+Why "play" is a better strategy than deep planning right now
+
 So, why creative dataviz as a place to start?
 
 I need to cover:
