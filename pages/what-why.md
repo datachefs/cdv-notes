@@ -46,3 +46,11 @@ Example: Shhiny Object Task Force
 Also a strategy for staff retention, leadership development like we did at My old place
 
 Why at scale?  More in How about this, but need to at least crack the door here -- most folks don't think that way
+
+There is real power and real accountability in unvarnished numbers:
+- We need to have talked to 15,000 voters by now, and we've only reached 10,000
+- We can't call a strike vote until we've gotten 80 more workers to sign a card check
+
+Interpretive dances don't win elections.
+
+I my proposing campaigns swap out data managers for dance managers? Obviously not.

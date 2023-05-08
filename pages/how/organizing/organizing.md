@@ -5,10 +5,26 @@ title: Organizing over Tech
 image: cupcakes-animals.jpg
 ---
 
- - Use a [Community-Oriented, Inclusive Approach](/pages/strategies/community.html)
+where does citizenship schools and extension services go?
 
 
-So, why creative dataviz as a place to start?
+## Leadership Development
+
+If you're at a nonprofit, you might be thinking, "but our staff doesn't have time for this."
+
+Yes, they don't.
+
+And let's face it: do they have the tech savvy to figure this thing out? Do they have the artistic creativity or the aesthetic I to do this well? Probably not.
+
+They also don't have the time to organize a strike. Or to build community power.
+
+In the long term, the key to making this work well is to do what good community, union, and political organizers do: bringing new folks and help them become volunteers, then leaders.
+
+And to do it not in just your group, but across locals or chapters, across the state. It's by doing this together that we have the best shot.
+
+
+And learn from other folks - e.g., network of housing advocates across the country, progressive groups in Michigan.
+
 
 I need to cover:
 
@@ -24,25 +40,9 @@ But: got so much on our plate, how do we figure out how to do this?
 
 The same way: together.  band of brothers and sisters across groups -- in general, or by state/region, or by sector, or both/and.  Figuring out good leadership dev in tech by yourself, writing the sheets, figuring out the asks, thinking through access issues, etc:  that's a lot.  Doing it w 5 other groups, together?  And maybe w some help from movement experts in how to do leadership dev in general?  That's a different story?
 
-Before GPT, the way to go would have been to create lightweight libraries. Now it's unclear. And to be honest, it may be unclear for a while -- it may take some time to figure out how to we write code in the best way in the era of GPT.
-
-So instead of trying to spell out the how, let's talk about the what:
-
-
-Eventually strategic/useful -- although it may take some beginning shiny-centered iterations to get there; it may be hard to figure out what would actually be effective until we have some real world experience.
-
-Something where it's okay to be playful, experimental, okay to make mistakes -- low stakes, small amounts of resources, iterative, learn as you go
-
-And learn from other folks - e.g., network of housing advocates across the country, progressive groups in Michigan.
-
-Explain to artists and graphic designers widescale matters -- give concrete examples
-
-Also concrete examples of what kind of creative dataviz you might do. Starting from simple data is a good idea
-
 Maybe even setting up groups in churches
 Bring in young activists , including high school
 And look for intersections. A small Atlanta church might not have folks, but if it's part of an Atlanta of progressive black churches
-
 creating a diverse community oriented ecosystem
 
 
@@ -50,48 +50,4 @@ Ideally the way it would work is:
 a pilot: 2-3 grassroots organizing groups, at least one of which has local/chapters in several states
 
 
-
-Decouple the issues of needing to clean up/aggregate/transform the data
-and doing the dataviz
-just so it doesn't get overwhelming. Making progress is all about taking little tiny baby steps -- ideally little tiny baby steps that spark joy
-
-And don't do anything that's too high-stakes. For a bigger organization, your annual convention is probably not the best place to take your first baby steps here -- although if you give yourself room to play and try and fail and try and fail, you might end up with some dataviz that are good or interesting enough to consider showing off.
-
-
-There is real power and real accountability in unvarnished numbers:
-- We need to have talked to 15,000 voters by now, and we've only reached 10,000
-- We can't call a strike vote until we've gotten 80 more workers to sign a card check
-
-Interpretive dances don't win elections.
-
-I my proposing campaigns swap out data managers for dance managers? Obviously not.
-
-
-Building out the pilots and beyond in an incremental, organic, iterative, pilot-oriented way
-
-
-
-Timeline
-
-Timeline given that in the US we are at the start of a high-stakes election, and a whole lot of folks need to be Eyes on the Prize if we are going to make it.
-
-
-Nuts and bolts
-
-
-
-Including rural groups and rural issues (e.g., public utilities and rural electric co-ops)
-
-
-
-Talk with folks at Highlander?
-
-where does citizenship schools and extension services go?
-
-
-[Notes](../pages/creative-dataviz/creative-notes.html)
-
 at each stage, set expectations _low_ — don’t set myself up (eg, w proof of concepts)
-
-
-The end result: not just cool graphics, but new networks of folks playing together that can be the foundations for working with other tech as well
