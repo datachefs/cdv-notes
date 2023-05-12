@@ -48,6 +48,11 @@ None of this will be trivial. Most developers spend a lot more time modifying co
 
 
 
+__Adventurous Beginners__
+
+My dad, that little girl
+
+
 
 
 at each stage, set expectations _low_ — don’t set myself up (eg, w proof of concepts)

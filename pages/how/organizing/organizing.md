@@ -26,6 +26,26 @@ And to do it not in just your group, but across locals or chapters, across the s
 And learn from other folks - e.g., network of housing advocates across the country, progressive groups in Michigan.
 
 
+"Democracy" isn't enough -- it's doing it together, to build power at scale -- the power to directly challenge Big Tech, power in red states and blue, etc.
+
+There's nothing wrong with lots of little groups doing their own thing, but Google is not worried about them
+
+Lots of boot camps vs citizenship schools
+(again, not knocking boot camps -- can be invaluable experience. But not at scale)
+
+What goes into the organizing section, what goes into the scale section?
+
+
+Part of organizing oriented approach: building it so it pays for artists and graphic designers, especially in marginalized communities
+
+Why doing this through community groups is key: building relationships (again, is this about scale or about organizing?). Because ultimately this is about building grassroots power
+
+Lots of small, uncoordinated groups can dramatically transform individual lives. But they can't dramatically transform the economies of Harlem or Harlan County
+
+(What percent of tech wealth is reinvested in Harlem or Harlan County?)
+
+
+
 I need to cover:
 
 stronger together: why doing this through networks, both by the type of group and by geography, is the way to go

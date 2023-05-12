@@ -27,3 +27,20 @@ Building out the pilots and beyond in an incremental, organic, iterative, pilot-
 Including rural groups and rural issues (e.g., public utilities and rural electric co-ops)
 
 at each stage, set expectations _low_ — don’t set myself up (eg, w proof of concepts)
+
+
+## Planting Seeds
+
+It's possible that the need for creative data visualization is small. That's okay. Maybe it opens the door to rethinking tools for cutting data
+
+Or communities, techies sweating together
+
+Or automating Si boring organizing office work
+
+Like the best startups, we don't have to know (the best version of MVP's)
+
+Or maybe it creates five times as many people who understand budget battles, so more organizers
+
+
+
+Maybe it'll be like citizenship schools: the leaders it develops are more important
