@@ -1,14 +1,23 @@
 ---
 layout: content
-title: 'Simple Coding/Writing over Point-And-Click'
+title: Coding Recipes over Point-And-Click
 image: cupcakes-animals.jpg
 ---
 
+Start with Tollhouse cookies recipe on a bag of chocolate chips.
 
-To make this work, we need an approach that focuses on coding/writing.
+If you buy a bag of Hershey's chocolate chips, on the bag you'll find an iconic recipe for Tollhouse chocolate chip cookies. Nobody looks at that bag and says, "why bother? Nobody can understand scripts for creating chocolate chip cookies."
 
-"Wait, what?" You say. It's isn't coding too hard and too confusing and to alienating? Isn't the way to go
-point-and-click?
+But when it comes to coding, a number of the people interviewed for this report -- smart, sophisticated people with decades of working with tech in the community -- said that if we want to create a community of community folks who are doing creative data visualization, point-and-click is the only way to go. Code scripts are just too confusing and alienating.
+
+
+
+Not saying no point-and-click, saying troublemakers -- some easier to do by hand, some by voice.
+
+Troublemakers as well as to users (recipe for your favorite sandwich).
+Already have it on your smart phone homepage. Switch to Outlook
+
+
 
 Before Chat GPT, the answer was a bit more complicated, but it was pretty solid:
 
@@ -47,12 +56,19 @@ Well guess what? With this new AI, domain specific languages are a whole lot clo
 None of this will be trivial. Most developers spend a lot more time modifying code than writing code and fixing code that doesn't work than writing new code. Then again, when you are learning how to bake a perfect chocolate cake, you're going to spend a fair amount of time trying and failing making mistakes before you get it right.
 
 
+To people who say yes we have been trying to make coding a lot easier, I say, have you seen what error messages look like? If you were to sit down and try to come up with word vomit that would scare off beginners, odds are you'd come up with something like most coding languages' error messages. Ironically, one of the selling points of the up-and-coming AI-enhanced coding tools is that they can turn error messages us humans have created into something more humans can understand. Never send a human to do an AI's job…
+
 
 __Adventurous Beginners__
 
-My dad, that little girl
+that little girl
 
+There are already lots of adventurous beginners out there. This is about creating an ecosystem, an atmosphere, a vibe that makes it more likely more adventurous beginners from more marginalized communities will come play (e.g., in churches), in an atmosphere that feels safe and exciting and enticing, work feels okay to be vulnerable, okay to admit that you are making mistakes, and where you feel lifted up & supported by your brothers and sisters from many different communities, urban and rural; black, brown and white; etc.
+  - This is also why creative data visualization is such a great place to try to bridge the gap: it's so shiny that when you do it right, it can feel like magic, and people are more likely to get obsessed over it as opposed to, say, figuring out a better way of cleaning up data
+- Especially now in the world of GPT
+- Smoothing the learning curve
 
+Burnt pancakes are a crucial part of adventurous beginners.
 
 
 at each stage, set expectations _low_ — don’t set myself up (eg, w proof of concepts)
