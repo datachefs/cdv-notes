@@ -1,6 +1,7 @@
 ---
 layout: content
-title:  Draft of a Plan
+title: 'How: Draft a Plan'
+permalink: /plan/
 image: cupcakes-animals.jpg
 ---
 
@@ -22,3 +23,6 @@ And don't do anything that's too high-stakes. For a bigger organization, your an
 
 Ideally the way it would work is:
 a pilot: 2-3 grassroots organizing groups, at least one of which has local/chapters in several states
+
+
+Be agile: even if initial focus is on groups that work at scale, allow for little groups to bubble up

@@ -12,6 +12,17 @@ But when it comes to coding, a number of the people interviewed for this report 
 
 
 
+### 3. [Code Recipes over Point-And-Click](/pages/how/coding-writing/coding-writing.html)
+
+Point-and-click isn't bad, but:
+-  It's [prohibitively expensive]() to build if we want to be truly creative
+- It makes it much harder to build a glide path from [tool user to tool maker]()
+-It doesn't give us the same fighting chance at cracking the door open to much bigger possibilitiesk.
+
+And in the era of Chat GPT, if we take a page from Audrey Lord and [the back of Nestlé's chocolate chip bags](), there's no reason why we couldn't create a network of members of every community who are comfortable collaboratively developing creative dataviz. The key: create an ecosystem that identifies [adventurous beginners]() and develops them into leaders -- and that embraces the fact that when you do it right, coding can [feel like magic]().
+
+
+
 Not saying no point-and-click, saying troublemakers -- some easier to do by hand, some by voice.
 
 Troublemakers as well as to users (recipe for your favorite sandwich).
