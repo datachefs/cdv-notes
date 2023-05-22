@@ -6,18 +6,17 @@ image: breakfast-many2.jpg
 # image: vegetables-corn.jpg
 ---
 
+A long time ago, when organizers needed to help folks understand data that felt too abstract or intimidating, sometimes they'd use objects — from pennies to felt boards to chocolate & toys — to tell their story.  Ironically, as data’s gotten more powerful & more important, most stopped doing this.  
+
+But in the past few years, there have been advances in tech and new organizing efforts among progressive graphic designers & artists that open up new possibilities. We are now at a point where it could be possible for thousands of grassroots groups to use creative data viz — and hopefully financially help artists & graphic designers in marginalized communities.  
+
+And if we can crack open this door, eventually it might lead to some pretty amazing directions, including giving artists and graphic designers a shot at profoundly reshaping Big Tech, starting the hard work of transforming it from generative AI's economic & creative  stripmining to a liberatory social space for economic justice & expressing all of our full humanity
 
 
 
-[I have a sense as to where the intro should end, but I don't have a good sense as to where it should begin]
 
 
-
-
-- [the intro should be a roadmap, sort of an executive summary only without as many bullet points, of this Reese's peanut butter cup of stuff that I'm covering]
-- [the intro should be like a slightly more expanded version of the email I would send explaining what I'm doing]
-- [what's the connection between creative dataviz practical nuts and bolts
-and is bigger, broader, wilder things?]
+[the intro should be a roadmap, sort of an executive summary only without as many bullet points, of this Reese's peanut butter cup of stuff that I'm covering]
 
 [ by the end of the intro what you people need to know?
 They need to:

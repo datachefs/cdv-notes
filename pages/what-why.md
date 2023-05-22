@@ -21,6 +21,7 @@ Today we are at a point where we don't have to keep making the same unconscious 
 
 ---------------------------------------------------------------------------------------
 
+[ Start with three examples of creative data visualization; most people not getting it at first ]
 
 In the day-to-day grind, we assume that keep people who are involved in a struggle need to get comfortable working with numbers. But there is no rational reason why that should be so. We don't assume that people should be able to work in Latin. Why should we assume that raw numbers or charts that don't speak to our senses, to our strengths as visual creatures grounded in the real world and thousands of years of experience.
 

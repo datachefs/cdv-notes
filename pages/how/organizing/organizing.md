@@ -5,6 +5,66 @@ title: Organizing over Tech
 image: cupcakes-animals.jpg
 ---
 
+What's the difference between thinking like a (typical) techie and thinking like an organizer?
+
+A group of techies might say, "we need to democratize data!"
+
+An organizer would say, we need to build enough grassroots power to democratize data.
+
+Organizing is all about:
+- Understanding what your goal is
+ - Figuring out how much power you need to build to win
+- Figuring out the follow-through -- what you do after you get a win
+
+
+And organizing is all about understanding that grassroots power comes from people working together. It's not just about individuals, it's about the magic that happens when we stand together.
+
+And it's about power analysis: how much power and what kind of power do we need in order to win?
+
+(This is the point at which I need to start reading up about organizing)
+
+
+---
+
+
+If you want to reach many people, not just Boot Camp but many ways in:
+ecosystem
+Extension Services
+Organizing / leadership development across groups -- in regions, in sectors
+
+developing not just skills but leaders (citizenship schools)
+
+Being strategic - why creative date of is: risks are low, plenty of room for making mistakes, plenty of room for small wins, it's fun
+
+Not just tool users but tool makers
+
+Leadership development of folks with data skills, but also data literacy as essential skill for organizing to build power at scale, for holding people accountable, and for helping them make trade-offs based on our values when we win power
+
+Leadership development because your staff doesn't have enough time for this
+
+asking: what does winning look like, and what does it take to get there?
+"Democracy" isn't enough space for- it's doing it together, to build power at scale, the power to directly challenge Big Tech, power in red states and blue
+
+And power analysis: building it so it pays for artists and graphic designers, especially marginalized communities
+
+Why doing this through community groups is key: building relationships
+Thinking big - thinking about the quantity of power needed to actually win
+(power analysis)
+
+
+
+---
+
+
+Beginning of scale:
+lots of small, uncoordinated groups can dramatically transform individualize. But they can't dramatically transform the economics of Harlem or Harlan County.
+(What percent of tech wealth is reinvested in Harlem or Harlan County?)
+Economies of scale
+
+---
+
+
+
 where does citizenship schools and extension services go?
 
 
