@@ -22,21 +22,27 @@ The key to success is to think of this as an organizing project around tech rath
 - Not just tool users but tool makers
 - Again, strategically, data visualization is a great place to do this: risks are low, plenty of room for small wins, it's fun
 
-### 2. [Scale over One-Off's](/pages/how/scale/scale.html)
+- [Scale over One-Off's](/pages/how/scale/scale.html):  To have the impact we want, focus on getting lots of folks to do it over elaborate one-off's
+  - Otherwise how do we possibly get to the bigger picture, the opportunities for having a more fundamental impact? Don't have to succeed everywhere, but really need to keep our eyes on the prize, and that means you have to think at scale
+  - needed to build power -- not asking but taking a seat at the table, power to cut deals
+  - And that means that even the pilots have to tip their toe in the water of thinking at scale, just beginning to test out a tiny bit some of the ideas that would be needed
+  - Learning from New Georgia Project, etc.
+  - Paradoxically, easier to do at scale -- figuring it all out doesn't fall on staff in one local or one group
+  - Working together across geography -- and not just scale but purposeful coordinated scale with an eye on the prize
 
-To have the impact we want, focus on getting lots of folks to do it over elaborate one-off's
-- Otherwise how do we possibly get to the bigger picture, the opportunities for having a more fundamental impact? Don't have to succeed everywhere, but really need to keep our eyes on the prize, and that means you have to think at scale
-- needed to build power -- not asking but taking a seat at the table, power to cut deals
-- And that means that even the pilots have to tip their toe in the water of thinking at scale, just beginning to test out a tiny bit some of the ideas that would be needed
-- Learning from New Georgia Project, etc.
-- Paradoxically, easier to do at scale -- figuring it all out doesn't fall on staff in one local or one group
-- Working together across geography -- and not just scale but purposeful coordinated scale with an eye on the prize
 
+### 2. [Code Recipes over Point-And-Click](/pages/how/coding-writing/coding-writing.html)
+
+Point-and-click isn't bad, but:
+-  It's [prohibitively expensive]() to build if we want to be truly creative
+- It makes it much harder to build a glide path from [tool user to tool maker]()
+-It doesn't give us the same fighting chance at cracking the door open to much bigger possibilitiesk.
+
+And in the era of Chat GPT, if we take a page from Audrey Lord and [the back of Nestlé's chocolate chip bags](), there's no reason why we couldn't create a network of members of every community who are comfortable collaboratively developing creative dataviz. The key: create an ecosystem that identifies [adventurous beginners]() and develops them into leaders -- and that embraces the fact that when you do it right, coding can [feel like magic]().
 
 ### 3. [Iteration over Perfectionism](/pages/how/iteration/iteration.html)
 
 Feeling a little overwhelmed? Not to worry: iteration will save the day!
-
 - Take the first steps in a low risk, iterative way
 - Setting expectations low, so we feel comfortable making mistakes, messing around -- and working by a set of rules that makes it feel safe to be vulnerable, to mess around, to make mistakes
 
