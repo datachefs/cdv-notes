@@ -7,12 +7,12 @@ description:  Building a power user ecosystem that helps companies and the commu
 navigation_links:
   # - name:  About
     # link: 'about/'
-  - name: Introduction
+  - name: Intro
     link: "intro/"
-  - name: Principles
+  - name: 'What & Why'
+    link: 'why/'
+  - name: How
     link: 'how/'
-  - name: Plan
-    link: 'plan/'
   - name: Where Next
     link: 'what-next/'
   - name: Conclusion

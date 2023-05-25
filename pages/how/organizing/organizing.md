@@ -13,7 +13,9 @@ An organizer would say, we need to build enough grassroots power to democratize 
 
 Organizing is all about:
 - Understanding what your goal is
- - Figuring out how much power you need to build to win
+ - Figuring out how much power you need to build to win -- power analysis, scale
+ - Building the power -- leadership development, ecosystem, relationships, fighting together
+- Being strategic: low risks, room for small wins
 - Figuring out the follow-through -- what you do after you get a win
 
 

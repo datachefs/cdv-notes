@@ -1,6 +1,6 @@
 ---
 layout: content
-title: "Introduction: Cracking Open the Door"
+title: Introduction
 permalink: /intro/
 image: breakfast-many2.jpg
 # image: vegetables-corn.jpg

@@ -1,6 +1,6 @@
 ---
 layout: content
-title: 'How: The Plan'
+title: 'The Plan'
 permalink: /plan/
 image: cupcakes-animals.jpg
 ---

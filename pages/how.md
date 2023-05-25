@@ -1,6 +1,6 @@
 ---
 layout: content
-title: 'How: Principles'
+title: 'Principles'
 permalink: /how/
 image: cupcakes-animals.jpg
 ---

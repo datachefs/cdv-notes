@@ -28,4 +28,6 @@ And while creative data visualization isn't the same as creating new AI, if a wh
 
 artists — and PTs & OTs
 
+Will artists do database performance tuning? No (probably)
+
 at each stage, set expectations _low_ — don’t set myself up (eg, w proof of concepts)
