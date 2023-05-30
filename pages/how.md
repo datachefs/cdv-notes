@@ -10,21 +10,26 @@ Now that we know what we want to accomplish and why, how do we pull it off? By f
 
 ### 1. [Organizing over Tech](/pages/how/organizing/organizing.html)
 
-The key to success is to think of this as an organizing project around tech rather than a tech project that involves some organizing:
-- Just like we do in political organizing, union organizing, and community organizing, building capacity by not just relying on staff but through organizing "adventurous beginners" and skilled members
-  - Not just for community organizers and techies but also tech leadership development for artists & graphic designers
-- Not just technical skills but skills at building power, leadership (Citizenship Schools)
-- Not just boot camps but many ways in (Extension Services)
-- Data literacy: essential skill for organizing to build power, for resisting data-driven badness, for making trade-offs when you wind power, for holding people accountable
-  - Not just trying to create creative dataviz, but creating a safe testing ground and a place to start building grassroots power at the scale it would take to bend the moral arc of Big Tech towards justice
-- Building an ecosystem (citizenship schools, Extension Services)
-- And if the goal is to lay the groundwork for building a social infrastructure that has a shot at transforming tech, it means developing not just skills but leaders (a less intense form of Citizenship Schools)
+The key to success is to think of this as an organizing project around tech rather than a tech project that involves some organizing
+
+Organizing is about building power to make change, which also means it's about analyzing power and strategy, both in how to get to where you want to go, and how to build the power necessary to do so. So we don't want to democratize data just for the sake of "empowering" people.  In a world where data and tech are becoming increasingly important as levers of power, how do we ensure that more people in every community understand and can wield them?
+
+By taking a page from the 1960s Civil Rights Movement Citizenship Schools,  creative data visualization is great strategic ground for:
+- __Building Data Literacy__. Today, the language of data is one of the key languages of power. Creative data visualization is a great place for building literacy in that language
+-  __Developing Leaders__. It's a good leverage point for building the capacity to wield power and for taking baby steps in building a grassroots economic power at the scale it would take to bend the moral arc of big tech towards justice (in a place where the risks are low, plenty of room for small wins, and it's fun)
+
+But although we can take a page from Citizenship Schools, we need to tweak it to address our particular, modern circumstances:
+- Just like our grassroots community groups do in clinical, union, and community organizing, the way to build capacity is not to just rely on staff but through organizing skilled members and "adventurous beginners"  -- both in tech and in graphic design & art
+- Not just boot camps, but taking a page from another wildly successful (albeit more problematic) mass democracy movement: Extension Services in agriculture -- creating ecosystem, identifying grassroots leaders, building multiple on ramps, etc.
 - Not just tool users but tool makers
 - Again, strategically, data visualization is a great place to do this: risks are low, plenty of room for small wins, it's fun
 
+Principal #1 is the central organizing principle of this project. The other 3 principles come out of it:
+
 ## 2. [Scale over One-Off's](/pages/how/scale/scale.html):  
 
-One strategy decision that comes out of our organizing-focused analysis:  to build power to have impact we want, need to focus on getting lots of folks to do it -- and do it together -- over elaborate one-off's
+Scale over One-off's is about the strategy of operating in a way that will build enough power to actually win -- which is also why it's not just about scale but about purposeful coordinated scale with an eye on the prize. And not just against one off data visualizations, but one-off efforts by just one organization.
+
   - Otherwise how do we possibly get to the bigger picture, the opportunities for having a more fundamental impact? Don't have to succeed everywhere, but really need to keep our eyes on the prize, and that means you have to think at scale
   - needed to build power -- not asking but taking a seat at the table, power to cut deals
   - And that means that even the pilots have to tip their toe in the water of thinking at scale, just beginning to test out a tiny bit some of the ideas that would be needed
@@ -35,7 +40,7 @@ One strategy decision that comes out of our organizing-focused analysis:  to bui
 
 ### 3. [Code Recipes over Point-And-Click](/pages/how/coding-writing/coding-writing.html)
 
-Point-and-click isn't bad, but:
+Point-and-click can sometimes be useful, but:
 -  It's [prohibitively expensive]() to build if we want to be truly creative
 - It makes it much harder to build a glide path from [tool user to tool maker]()
 -It doesn't give us the same fighting chance at cracking the door open to much bigger possibilitiesk.
