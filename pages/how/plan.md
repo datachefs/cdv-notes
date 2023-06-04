@@ -46,9 +46,9 @@ Need an approach that keeps eye on the prize of getting big but also gives lots 
 
 Start playing around w ideas for 
 
-Track 1: grassroots groups that operate at scale in organizing
+Track 1 (Track Peanut Butter): grassroots groups that operate at scale in organizing
 
-Track 2: individuals -- bottom up
+Track 2 (Track Chocolate):  individuals -- bottom up
 
 
 ## After the Election
