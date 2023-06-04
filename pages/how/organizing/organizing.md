@@ -140,6 +140,9 @@ And look for intersections. A small Atlanta church might not have folks, but if 
 creating a diverse community oriented ecosystem
 
 
+Harnessing the power of grassroots energy -- lots of crazy good content online -- eg, teachers showing cool interactive tricks out of Google Slides, or nail art, or crafts, or...
+
+
 Ideally the way it would work is:
 a pilot: 2-3 grassroots organizing groups, at least one of which has local/chapters in several states
 
