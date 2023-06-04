@@ -28,6 +28,8 @@ And it's about power analysis: how much power and what kind of power do we need 
 
 ---
 
+
+
 By taking a page from the 1960s Civil Rights Movement Citizenship Schools:
 - learning to read and write were a skill building means to an end -- building power at the ballot box, and building economic power (if you can't read, you can't know what contract you are signing)
 - A school for developing local community leaders -- in that case, black folks fighting for freedom in politics and in the economy, in this case black white and brown folks fighting for political (state budget battle) and economic (big tech) grassroots power

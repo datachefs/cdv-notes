@@ -18,7 +18,7 @@ Primarily experienced graphic designers and artists, with a few skilled JavaScri
 But if other people are interested in playing, we should encourage it. You want to assume minimal resources to get the job done, with an eye towards convincing large grassroots groups after the election that it's worth doing a pilot. But we don't want to lose the opportunity for other folks who get fired up to do something about it.
 
 
-### 2) Create Examples
+### 2) Create Examples and Thoughts about Next Stepa
 
 
 Have several examples in mind:
@@ -43,6 +43,13 @@ even if initial focus is on groups that work at scale, allow for little groups t
 But don't get ahead of ourselves
 
 Need an approach that keeps eye on the prize of getting big but also gives lots of folks ways of plugging in and self organizing
+
+Start playing around w ideas for 
+
+Track 1: grassroots groups that operate at scale in organizing
+
+Track 2: individuals -- bottom up
+
 
 ## After the Election
 
