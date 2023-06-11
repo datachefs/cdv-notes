@@ -28,7 +28,11 @@ Have several examples in mind:
 
 Before GPT, the way to go would have been to create lightweight libraries. Now it's unclear. And to be honest, it may be unclear for a while -- it may take some time to figure out how to we write code in the best way in the era of GPT.
 
+Some examples can be playful but sensible.  But others should be more out there, more eye-popping, or more sassy -- we want to give folks a range to expand their sense of what's possible, to make sure they don't play it too safe, and to make sure they have fun.
 
+Explore ways of working w gpt for newbies 
+- Gpt feels like magic
+- But debugging doesn't 
 
 
 even if initial focus is on groups that work at scale, allow for little groups to bubble up
