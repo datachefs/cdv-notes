@@ -58,7 +58,14 @@ Maybe Adobe could do it. Maybe Microsoft could do it. But a community project? T
 
 __Point-And-Click Doesn't Crack Open Liberatory Doors__ But even if you could figure out a way to afford to build a truly creative dataviz toolkit that was all point-and-click, it would defeat an important part of the point of working with creative dataviz: it's an opportunity to crack open doors to a bigger, deeper engagement of the community with the development of software. Now, if #1 wasn't working, and this wouldn't matter. But this is why it's worth taking a real shot at making coding work.
 
-But now that Large Language Models like Chat GPT are here, it's a very different story. Just months after the introduction of Chat GPT, it's already possible to write remarkably complex scripts just using a paragraph or two. And we are just getting started.
+But now that Large Language Models like Chat GPT are here, it's a very different story. Just months after the introduction of Chat GPT, it's already possible to write remarkably complex scripts just using a paragraph or two. 
+
+DataBricks even went to cheekily titled, "Introducing English as the New Programming Language for Apache Spark"
+
+https://www.databricks.com/blog/introducing-english-new-programming-language-apache-spark
+
+
+And we are just getting started.
 
 For example, one of the ongoing daydreams of a lot of developers has been the idea of creating "domain specific languages." Instead of writing a bunch of geeky code, you could write a smaller set of code that encapsulated what you are trying to do at a higher level. Imagine you are creating a robot that could cook. At some level in their stack, you would want to have a cooking language that was pretty close to how recipes work -- e.g., "sauté the chicken breast until lightly browned."
 
